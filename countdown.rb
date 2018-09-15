@@ -7,3 +7,4 @@ end
 def countdown_with_sleep(seconds)
   "#{number} SECOND(S)!"
   puts
+end
